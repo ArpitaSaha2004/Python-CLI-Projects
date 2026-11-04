@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+quiz_results.txt
+leaderboard.txt
+shopping_bill.txt
+.DS_Store
