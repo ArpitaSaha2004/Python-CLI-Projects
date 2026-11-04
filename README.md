@@ -66,6 +66,23 @@ A slot-machine-style game where users place bets and try their luck with random 
 
 **Concepts Practised:** Random module, dictionaries, functions, loops, conditional statements, and calculations.
 
+### 6. Rock Paper Scissors
+
+A classic Rock Paper Scissors game where users compete against the computer in a Best of 5 tournament.
+
+**Features:**
+
+- Player vs Computer gameplay
+- Randomised computer choices
+- Input validation
+- Winner detection
+- Best of 5 tournament
+- Score tracking
+- Final match result
+- Replay option
+
+**Concepts Practised:** Random module, functions, lists, while loops, conditional statements, user input, return statements, and score management.
+
 ## Technologies Used
 
 - **Language:** Python
