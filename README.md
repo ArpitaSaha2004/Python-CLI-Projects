@@ -2,7 +2,7 @@
 
 A collection of Python command-line applications built to practise Python programming, problem-solving, and core programming concepts.
 
-This repository contains five beginner-friendly projects developed while learning Python. Each project focuses on applying different concepts through practical implementation.
+This repository contains beginner-friendly projects developed while learning Python. Each project focuses on applying different concepts through practical implementation.
 
 ## Projects
 
