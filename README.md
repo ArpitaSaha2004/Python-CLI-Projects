@@ -83,6 +83,24 @@ A classic Rock Paper Scissors game where users compete against the computer in a
 
 **Concepts Practised:** Random module, functions, lists, while loops, conditional statements, user input, return statements, and score management.
 
+### 7. Tic Tac Toe
+
+A classic two-player game where players take turns marking X and O on a 3×3 board. The first player to get three marks in a row, column, or diagonal wins.
+
+**Features:**
+
+- Two-player gameplay
+- 3×3 game board
+- Alternating player turns
+- Position selection
+- Invalid input validation
+- Prevention of occupied positions
+- Winner detection
+- Draw detection
+- Replay option
+
+**Concepts Practised:** Nested lists, indexing, functions, while loops, conditional statements, input validation, and game logic.
+
 ## Technologies Used
 
 - **Language:** Python
