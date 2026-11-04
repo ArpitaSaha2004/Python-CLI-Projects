@@ -101,6 +101,25 @@ A classic two-player game where players take turns marking X and O on a 3×3 boa
 
 **Concepts Practised:** Nested lists, indexing, functions, while loops, conditional statements, input validation, and game logic.
 
+### 8. File Handling CRUD Operations
+
+A command-line application that allows users to perform basic file management operations, including creating, reading, updating, and deleting files using Python.
+
+**Features:**
+
+- Create new files
+- Read and display file contents
+- Rename existing files
+- Overwrite existing file content
+- Append new content to files
+- Delete existing files
+- Check whether a file exists
+- Validate file paths
+- Exception handling for file operations
+- Menu-driven interface
+
+**Concepts Practised:** File handling, file modes (`r`, `w`, `a`), `pathlib` module, functions, exception handling, conditional statements, user input, and file management operations.
+
 ## Technologies Used
 
 - **Language:** Python
